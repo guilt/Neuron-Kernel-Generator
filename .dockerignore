@@ -1,0 +1,8 @@
+output/
+build/
+*.md
+.git/
+.gitignore
+test_*.sh
+Dockerfile*
+docker-compose.yml
